@@ -6,3 +6,8 @@
 <h4> - 11/08/2020 and 13/08/2020 • Learn to create CSS components and prototype your application with Figma </h4>
 <h4> - 18/08/2020 and 20/08/2020 • Learn your first back-end language with Ruby </h4>
 <h4> - 25/08/2020 and 27/08/2020 • Learn the basics of Javascript </h4>
+
+<br>
+<h2> Landing page simples com HTML e CSS.<h2>
+
+<img src="landing.gif" alt="landing gif" height="425">
